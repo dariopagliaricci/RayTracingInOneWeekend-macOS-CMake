@@ -1,0 +1,14 @@
+# build artifacts
+build/
+
+# macOS junk
+.DS_Store
+Icon?
+Thumbs.db
+
+# generated images
+*.ppm
+*.png
+
+# backup files
+*.bak
